@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
     runserver
-    Test Brandon update
     ~~~~~~~~~
 
     로컬 테스트를 위한 개발 서버 실행 모듈.
