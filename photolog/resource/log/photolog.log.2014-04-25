@@ -1,0 +1,23 @@
+2014-04-25 17:35:26,401 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-25 17:35:26,401 - INFO - template folder : ../templates
+2014-04-25 17:35:27,068 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-25 17:35:27,068 - INFO - template folder : ../templates
+2014-04-25 17:35:54,382 - INFO - (GET)next_url is http://localhost:5000/
+2014-04-25 17:36:51,204 - INFO - (GET)next_url is http://localhost:5000/photo/
+2014-04-25 17:37:16,454 - DEBUG - None
+2014-04-25 17:37:47,260 - DEBUG - <User u'batsu05' u'batsu05@gmail.com'>
+2014-04-25 17:37:47,426 - INFO - (GET)next_url is 
+2014-04-25 17:38:28,296 - INFO - (POST)next_url is 
+2014-04-25 17:38:34,059 - INFO - (POST)next_url is 
+2014-04-25 17:40:45,094 - ERROR - File upload error : illegal file.
+2014-04-25 17:40:45,094 - ERROR - Photolog error occurs : File upload error : illegal file.
+2014-04-25 17:43:24,283 - INFO - callback oauth_token:9eyxECqxPCoUuXqxCxh55yxGnLLaGanHxO2Nm5GU2io
+2014-04-25 17:43:24,283 - INFO - callback oauth_verifier:nUlWPYRgkscOaTBOPySvi5CtmT6vXBDOJvKHg3rSWY
+2014-04-25 17:44:46,326 - DEBUG - <User u'batsu05' u'batsu05@gmail.com'>
+2014-04-25 18:02:43,417 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-25 18:02:43,417 - INFO - template folder : ../templates
+2014-04-25 18:02:45,816 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-25 18:02:45,816 - INFO - template folder : ../templates
+2014-04-25 18:02:48,039 - INFO - (GET)next_url is http://localhost:5000/logout
+2014-04-25 18:03:20,276 - DEBUG - <User u'batsu05' u'batsu05@gmail.com'>
+2014-04-25 18:05:23,713 - INFO - (GET)next_url is http://localhost:5000/photo/

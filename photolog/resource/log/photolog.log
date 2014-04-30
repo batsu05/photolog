@@ -1,0 +1,12 @@
+2014-04-29 15:55:06,509 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-29 15:55:06,539 - INFO - template folder : ../templates
+2014-04-29 15:55:10,388 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-29 15:55:10,388 - INFO - template folder : ../templates
+2014-04-29 15:55:16,878 - INFO - (GET)next_url is http://localhost:5000/
+2014-04-29 15:55:25,312 - INFO - (POST)next_url is http://localhost:5000/
+2014-04-30 11:57:47,724 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-30 11:57:47,726 - INFO - template folder : ../templates
+2014-04-30 11:57:49,558 - INFO - static folder : C:\workspace\flask\ch05\photolog\photolog\../static
+2014-04-30 11:57:49,558 - INFO - template folder : ../templates
+2014-04-30 11:57:52,315 - INFO - (GET)next_url is http://127.0.0.1:5000/
+2014-04-30 11:58:03,328 - INFO - (POST)next_url is http://127.0.0.1:5000/
